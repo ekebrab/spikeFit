@@ -1,3 +1,5 @@
+%spikeFit creates two linear regressions for a set of data points - the Twitter hashtag mentions that we dealt with
+
 function [lin poly resid t] = spikefit(hourdata, baseline)
 %hourdata is a column of consecutive data points
 %baseline is the observed tweet baseline
