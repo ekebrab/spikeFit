@@ -1,3 +1,5 @@
+%spikePlot plots raw data - hourly Twitter hashtag mentions are what we plotted
+
 function spikeplot(lin, pol, hourdata, t)
 
 %Place estimated parameters into linear and trinomial models
