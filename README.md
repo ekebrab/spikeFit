@@ -1,4 +1,4 @@
-For our Columbia Engineering Undergraduate Senior Seminar Presentation, we modeled regressions for Twitter trends - specifically, hourly hashtag mentions for three events in 2009. 
+For our Columbia Engineering Undergraduate Senior Seminar Presentation, we (Tristan and Ezra) modeled regressions for Twitter trends - specifically, hourly hashtag mentions for three events in 2009. 
 
 We used the listed awk commands to filter out specific hashtag mentions from the dataset. spikePlot.m plots the hashtag mentions for each of these events. spikeFilter.m creates and graphs the simple linear and trinomial linear regressions for each event. 
 
