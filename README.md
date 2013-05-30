@@ -8,7 +8,7 @@ Selected events were: Michael Jackson's death, Kanye West's interruption of Tayl
 
 Raw data was pulled from Infochimps.
 
-Presentation Slides can be found here: http://bit.ly/15zEp7f
+Presentation Slides can be found here: http://slidesha.re/12ktygr
 
 Matlab code and AWK commands used can be found here: https://github.com/ekebrab/spikeFit
 
